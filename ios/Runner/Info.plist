@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key>
+    <string>ScanPro</string>
+    <key>CFBundleName</key>
+    <string>ScanPro</string>
+    <key>NSCameraUsageDescription</key>
+    <string>ScanPro uses the camera to capture paper documents.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>ScanPro accesses your photo library when you choose images to scan.</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>ScanPro may save exported scans to your photo library.</string>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+        <string>UIInterfaceOrientationLandscapeLeft</string>
+        <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+        <string>UIInterfaceOrientationPortraitUpsideDown</string>
+        <string>UIInterfaceOrientationLandscapeLeft</string>
+        <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+</dict>
+</plist>
